@@ -221,14 +221,11 @@ bot.autoEat.on('eatFail', (error) => {
 
 👤 **Rocco A**
 
--   Github: https://github.com/GenerelSchwerz
+https://github.com/GenerelSchwerz
 
-👤 **Link**
+👤 **Linkle**
 
--   Github: https://github.com/link-discord
--   Twitter: https://twitter.com/link0069
--   Website: https://linkdiscord.xyz/
--   Discord: @link0069
+https://github.com/linkle69
 
 ## Show your support
 
