@@ -22,7 +22,7 @@
     },
     "author": {
         "name": "Link",
-        "url": "https://github.com/link-discord/"
+        "url": "https://github.com/linkle69/"
     },
     "contributors": [
         {
@@ -32,7 +32,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/link-discord/mineflayer-auto-eat.git"
+        "url": "git+https://github.com/linkle69/mineflayer-auto-eat.git"
     },
     "keywords": [
         "mineflayer",
