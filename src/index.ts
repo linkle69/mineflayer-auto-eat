@@ -9,6 +9,11 @@ declare module 'mineflayer' {
 }
 
 export function loader(bot: Bot) {
-    if (!bot.hasPlugin(utilPlugin.default)) bot.loadPlugin(utilPlugin.default)
+    const plugin = utilPlugin.default ?? utilPlugin
+    
+    if (!bot.hasPlugin(plugin)) {
+        bot.loadPlugin(plugin)
+    }
+    
     bot.autoEat = new EatUtil(bot)
 }
